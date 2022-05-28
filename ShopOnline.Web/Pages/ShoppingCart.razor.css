@@ -1,0 +1,7 @@
+﻿.update-qty{
+    display:none;
+}
+
+.update-qty active {
+    display: block;
+}

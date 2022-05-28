@@ -1,0 +1,12 @@
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\bin\Debug\net6.0\ref\ShopOnline.Models.dll
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
+C:\Win7-D-drive\DotNetCore\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ff71768-eda1-443d-851f-9dc28824213f": {
+      "ProjectGuid": "6ff71768-eda1-443d-851f-9dc28824213f",
+      "DisplayName": "ShopOnline.Web",
+      "ColorIndex": 0
+    },
+    "01bf1438-1f53-44ab-904b-39a6aad566e3": {
+      "ProjectGuid": "01bf1438-1f53-44ab-904b-39a6aad566e3",
+      "DisplayName": "ShopOnline.Models",
+      "ColorIndex": 1
+    },
+    "bcfb05c2-0fa4-448c-88c4-b379bef0972d": {
+      "ProjectGuid": "bcfb05c2-0fa4-448c-88c4-b379bef0972d",
+      "DisplayName": "ShopOnline.Api",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
